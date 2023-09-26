@@ -1,5 +1,9 @@
 # Employee_Attrition
 
+Welcome to the AcmeTech Solutions Employee Attrition Analysis project repository. Please note that this project is fictitious and primarily educational. The employee datasets used in this analysis were obtained from Kaggle and do not represent real-world data. I would like to acknowledge and thank the original uploader of the dataset on Kaggle [Link to Kaggle Dataset](https://www.kaggle.com/datasets/vjchoudhary7/hr-analytics-case-study?select=out_time.csv). 
+
+My primary objective was to create a comprehensive analysis of employee attrition factors within the fictitious AcmeTech Solutions, a prominent tech company. This project is intended for educational purposes to demonstrate data analysis and visualization techniques. It is not associated with any real company or organization.
+
 # AcmeTech Solutions Employee Attrition Analysis
 
 ## Table of Contents
@@ -12,7 +16,6 @@
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -57,9 +60,15 @@ Before running the code, ensure you have the following prerequisites installed:
 Project Structure
 The repository is structured as follows:
 
-/code: Contains SQL and Python scripts for data analysis.
-/data: Stores the dataset used for analysis.
-/documentation: Includes detailed project documentation.
+/Analysis.SQL: Contains SQL scripts for data analysis.
+/Data: Contains all the data related to this project.
+/Data_cleaning.sql: Contains SQL scripts for data cleaning.
+/Scope of work: Includes detailed project documentation.
 /dashboard: Holds the Tableau dashboard file.
-/presentation: Contains the PowerPoint presentation.
-/visualizations: Stores visualizations and charts generated during analysis.
+
+License
+This project is licensed under the MIT License. 
+
+## Feedback and Contributions
+
+This project is open for feedback and contributions. If you have suggestions, improvements, or questions, please feel free to [open an issue](https://github.com/Drummer05/Employee_Attrition/issues) or [submit a pull request](https://github.com/Drummer05/Employee_Attrition/pulls). Your input is highly appreciated, and it helps enhance the educational value of this project.
