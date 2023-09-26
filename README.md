@@ -44,6 +44,10 @@ AcmeTech Solutions, with approximately 4,000 employees, faces a 26% annual emplo
 - **Structured Documentation**: Thoroughly documented project scope, methodology, findings, and recommendations.
 - **GitHub Repository**: Centralized project materials, enabling transparency and collaboration.
 
+---
+
+## Getting Started
+
 Before running the code, ensure you have the following prerequisites installed:
 
 - [Tableau Desktop](https://www.tableau.com/products/desktop/download)
@@ -57,17 +61,23 @@ Before running the code, ensure you have the following prerequisites installed:
    ```bash
    git clone https://github.com/Drummer05/AcmeTech-Solutions-Employee-Attrition-Analysis.git
 
-Project Structure
+---
+
+## Project Structure
 The repository is structured as follows:
 
-/Analysis.SQL: Contains SQL scripts for data analysis.
-/Data: Contains all the data related to this project.
-/Data_cleaning.sql: Contains SQL scripts for data cleaning.
-/Scope of work: Includes detailed project documentation.
-/dashboard: Holds the Tableau dashboard file.
+- /Analysis.SQL: Contains SQL scripts for data analysis.
+- /Data: Contains all the data related to this project.
+- /Data_cleaning.sql: Contains SQL scripts for data cleaning.
+- /Scope of work: Includes detailed project documentation.
+- /dashboard: Holds the Tableau dashboard file.
 
-License
+---
+
+## License
 This project is licensed under the MIT License. 
+
+---
 
 ## Feedback and Contributions
 
