@@ -90,7 +90,7 @@ This project is open for feedback and contributions. If you have suggestions, im
 
 1. **Job Satisfaction is Paramount:** Our analysis underscores that job satisfaction plays a pivotal role in employee attrition. A substantial portion of departing employees reported low job satisfaction, making it the primary contributor to attrition.
 
-2. **Work-Life Balance Matters:** Employees struggling with an unfavorable work-life balance were more likely to leave. This highlights the importance of fostering a healthy balance between work and personal life.
+2. **Environmental Satisfaction Matters:** Based on the data, employees who find their work environment unsatisfactory were more likely to leave. a subtantial portion of employees who left the company reported low and medium environmental satisfaction.
 
 3. **Stagnation and Promotions:** Employees who haven't received promotions in several years were more inclined to seek opportunities elsewhere. Recognizing and rewarding employee growth and contributions can significantly improve retention.
 
@@ -98,12 +98,14 @@ This project is open for feedback and contributions. If you have suggestions, im
 
 1. **Boost Job Satisfaction:** AcmeTech should prioritize measures to enhance job satisfaction. Regular employee surveys, addressing concerns promptly, and offering skill development and growth opportunities are crucial steps.
 
-2. **Enhance Work-Life Balance:** Implement flexible work hours, remote work options, and promote the utilization of vacation days. Consider wellness programs and stress management initiatives to improve employees' work-life balance.
+2. **Enhance Environmental Satisfaction:** AcmeTech should Invest in workspace improvements that promote well-being, collaboration, and comfort. Consider factors such as ergonomics, lighting, and overall aesthetics.
+   
+3. **Enhance Work-Life Balance:** Implement flexible work hours, remote work options, and promote the utilization of vacation days. Consider wellness programs and stress management initiatives to improve employees' work-life balance.
 
-3. **Promote Employee Growth:** Establish a structured career development plan that includes regular promotions and skill enhancement opportunities. Acknowledge and reward employees for their contributions and milestones achieved.
+4. **Promote Employee Growth:** Establish a structured career development plan that includes regular promotions and skill enhancement opportunities. Acknowledge and reward employees for their contributions and milestones achieved.
 
-4. **Regular Employee Surveys:** Institute periodic employee feedback surveys to monitor job satisfaction, work-life balance, and employee growth perceptions. Proactively address issues identified in survey results.
+5. **Regular Employee Surveys:** Institute periodic employee feedback surveys to monitor job satisfaction, environmental satisfaction, work-life balance, and employee growth perceptions. Proactively address issues identified in survey results.
 
-5. **Mentoring and Support Programs:** Develop mentoring programs that connect employees with experienced colleagues who can guide them in their careers. Offer comprehensive support to help employees navigate challenges and grow within the organization.
+6. **Mentoring and Support Programs:** Develop mentoring programs that connect employees with experienced colleagues who can guide them in their careers. Offer comprehensive support to help employees navigate challenges and grow within the organization.
 
 By implementing these strategies, AcmeTech Solutions can significantly improve employee retention, identify and address attrition drivers effectively, and ultimately achieve the project's ambitious goal of reducing attrition by at least 10% within the next year. These actions will not only benefit the organization but also enhance the overall well-being and job satisfaction of its employees.
