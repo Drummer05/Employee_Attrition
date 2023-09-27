@@ -16,7 +16,7 @@ My primary objective was to create a comprehensive analysis of employee attritio
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
-- [Conclusion](#conlusion)
+- [Conclusion](#conclusion)
 
 ---
 
@@ -53,7 +53,6 @@ Before running the code, ensure you have the following prerequisites installed:
 
 - [Tableau Desktop](https://www.tableau.com/products/desktop/download)
 - [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
-
 
 ### Installation
 
