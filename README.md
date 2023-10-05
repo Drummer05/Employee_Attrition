@@ -17,7 +17,7 @@ My primary objective was to create a comprehensive analysis of employee attritio
 - [Contributing](#contributing)
 - [License](#license)
 - [Conclusion](#conclusion)
-
+- [Tableau Dashboard](#dashboard)
 ---
 
 ## Project Overview
