@@ -109,3 +109,9 @@ This project is open for feedback and contributions. If you have suggestions, im
 6. **Mentoring and Support Programs:** Develop mentoring programs that connect employees with experienced colleagues who can guide them in their careers. Offer comprehensive support to help employees navigate challenges and grow within the organization.
 
 By implementing these strategies, AcmeTech Solutions can significantly improve employee retention, identify and address attrition drivers effectively, and ultimately achieve the project's ambitious goal of reducing attrition by at least 10% within the next year. These actions will not only benefit the organization but also enhance the overall well-being and job satisfaction of its employees.
+
+## Tableau Dashboard
+
+You can access the Tableau dashboard for this project on Tableau Public by clicking the following link:
+
+[Tableau Dashboard Link](https://public.tableau.com/app/profile/carlos.silveio/viz/AttritionDashboard_16965318051950/HRAnalyticsDashboard?publish=yes)
